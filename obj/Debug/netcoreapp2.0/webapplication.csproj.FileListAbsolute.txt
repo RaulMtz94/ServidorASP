@@ -1,0 +1,11 @@
+C:\Users\Ing. En Software RM\Desktop\CARRERA IS\SEMESTRE 7\Desarrollo de aplicaciones web ll\ASP+ANGULAR\webapplication\bin\Debug\netcoreapp2.0\webapplication.deps.json
+C:\Users\Ing. En Software RM\Desktop\CARRERA IS\SEMESTRE 7\Desarrollo de aplicaciones web ll\ASP+ANGULAR\webapplication\bin\Debug\netcoreapp2.0\webapplication.runtimeconfig.json
+C:\Users\Ing. En Software RM\Desktop\CARRERA IS\SEMESTRE 7\Desarrollo de aplicaciones web ll\ASP+ANGULAR\webapplication\bin\Debug\netcoreapp2.0\webapplication.runtimeconfig.dev.json
+C:\Users\Ing. En Software RM\Desktop\CARRERA IS\SEMESTRE 7\Desarrollo de aplicaciones web ll\ASP+ANGULAR\webapplication\bin\Debug\netcoreapp2.0\webapplication.dll
+C:\Users\Ing. En Software RM\Desktop\CARRERA IS\SEMESTRE 7\Desarrollo de aplicaciones web ll\ASP+ANGULAR\webapplication\bin\Debug\netcoreapp2.0\webapplication.pdb
+C:\Users\Ing. En Software RM\Desktop\CARRERA IS\SEMESTRE 7\Desarrollo de aplicaciones web ll\ASP+ANGULAR\webapplication\obj\Debug\netcoreapp2.0\webapplication.csprojAssemblyReference.cache
+C:\Users\Ing. En Software RM\Desktop\CARRERA IS\SEMESTRE 7\Desarrollo de aplicaciones web ll\ASP+ANGULAR\webapplication\obj\Debug\netcoreapp2.0\webapplication.csproj.CoreCompileInputs.cache
+C:\Users\Ing. En Software RM\Desktop\CARRERA IS\SEMESTRE 7\Desarrollo de aplicaciones web ll\ASP+ANGULAR\webapplication\obj\Debug\netcoreapp2.0\webapplication.AssemblyInfoInputs.cache
+C:\Users\Ing. En Software RM\Desktop\CARRERA IS\SEMESTRE 7\Desarrollo de aplicaciones web ll\ASP+ANGULAR\webapplication\obj\Debug\netcoreapp2.0\webapplication.AssemblyInfo.cs
+C:\Users\Ing. En Software RM\Desktop\CARRERA IS\SEMESTRE 7\Desarrollo de aplicaciones web ll\ASP+ANGULAR\webapplication\obj\Debug\netcoreapp2.0\webapplication.dll
+C:\Users\Ing. En Software RM\Desktop\CARRERA IS\SEMESTRE 7\Desarrollo de aplicaciones web ll\ASP+ANGULAR\webapplication\obj\Debug\netcoreapp2.0\webapplication.pdb
